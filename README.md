@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @mahadali02
+- 👀 I’m interested in IT
+- 💞️ I’m in a collabboration with Leitwind and im currently creating a programm that will export data from a excel file to a DB.
